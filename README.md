@@ -14,20 +14,22 @@ Portfolio Website
         Portfolio/Projects: Showcases completed projects or works with descriptions, images,
         or links.
 
-        Skills Section: Displays technical and soft skills, often represented with progress bars or icons.
+        Skills Section: Displays technical and soft skills, often represented with progress
+   bars or icons.
 
         Resume/CV Download: Allows visitors to download your detailed resume.
 
-2. Technologies Used
+3. Technologies Used
 
-        A portfolio website can be built using various technologies depending on complexity and purpose:
+        A portfolio website can be built using various technologies depending on complexity
+    and purpose:
 
        Category	Common Technologies
        Frontend (UI/UX)	HTML5, CSS3, JavaScript, React.js, Vue.js, Bootstrap, Tailwind CSS
        Backend (optional)	Node.js, Express.js, Django, PHP, Flask
        Database (optional)	MySQL, MongoDB, Firebase
 
-3. How It Works
+5. How It Works
 
    User Access:
        A visitor opens the website via a browser.
