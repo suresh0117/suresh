@@ -1,0 +1,42 @@
+body {
+  padding-top: 70px;
+  /* Gradient background: top-left to bottom-right */
+  background: linear-gradient(135deg, #a8c0ff, #fbc2eb);
+  /* Optional: smooth scrolling feel */
+  background-attachment: fixed;
+}
+
+.Profile {
+  background-color: #94abec;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.hobby {
+  background-color: #ec94b9;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+ul {
+  list-style-image: url('button.png');
+}
+
+.footer {
+  position: relative;
+  padding-top: 15px;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #f7f7f7;
+}
+
+a.menu:hover {
+  color: purple !important;
+  background-color: rgb(242, 241, 247) !important;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
